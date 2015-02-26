@@ -2,7 +2,7 @@
 //  SafeOrderedDictionary.m
 //  SafeDataStructureKit
 //
-//  Originally authored as SafeOrderedDictionary in Reactive Formlets
+//  Originally authored as RAFOrderedDictionary in Reactive Formlets
 //  by Jon Sterling on 6/12/12.
 //  Copyright (c) 2012 Jon Sterling. All rights reserved.
 //
